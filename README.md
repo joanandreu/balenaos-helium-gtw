@@ -12,7 +12,7 @@ You will need a [balenaCloud free account](https://dashboard.balena-cloud.com/) 
 
 Deploy the code with this button
 
-[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/PastaGringo/balenaos-helium-gtw)
+[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/joanandreu/balenaos-helium-gtw)
 
 
 ## Modify the code
