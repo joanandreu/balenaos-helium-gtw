@@ -199,7 +199,7 @@
     },
 
     "gateway_conf": {
-        "gateway_ID": "wispy-morning-mallorca",
+        "gateway_ID": "droll-tartan-sheep",
         /* change with default server address/ports, or overwrite in local_conf.json */
         "server_address": "helium-miner",
         "serv_port_up": 1680,
